@@ -1,1 +1,1 @@
-document.querySelectorAll('[data-lang]').forEach(el=>el.addEventListener('change',e=>{if(e.target.value!=='en') alert('This language is prepared for future expansion. English is the current complete edition.');}));
+document.querySelectorAll('[data-lang]').forEach(el=>el.addEventListener('change',e=>{if(e.target.value==='zh'){alert('中文版本正在建立中。Chinese edition is being prepared.');e.target.value='en';}}));

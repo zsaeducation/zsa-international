@@ -34,3 +34,13 @@ npx wrangler deploy
 - Added responsive historical photo wall with bilingual micro-captions.
 - Featured the 2016 first Kuala Lumpur ZSA scalp acupuncture class with 108 participants.
 - Added clinical, academic, Australia and international education archive photographs.
+
+
+## v9.3.1
+- Corrected homepage hero image.
+- Homepage now uses the three-person Zhen Ding Shan photograph: Professor Ming Qing Zhu, Dr. Ru Shan Shy, and Dr. Sheng Chun Chang.
+
+## v9.3.2
+- Improved homepage hero image presentation to prevent portrait cropping and prepare horizontal hero use.
+- Redesigned Huangdi Neijing quotation as a bilingual Chinese-English editorial panel.
+- Updated the "From clinical transmission to international education" section with the Malaysia first-class education photograph.
