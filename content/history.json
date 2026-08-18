@@ -1,0 +1,66 @@
+[
+  {
+    "year": "Early Years",
+    "category": "Origins",
+    "title": "Early Clinical Development",
+    "location": "Historical archive",
+    "image": "/assets/images/history/origins-public-demonstration.jpg",
+    "caption": "Archival image documenting an early public clinical demonstration and the early dissemination of Zhu’s Scalp Acupuncture."
+  },
+  {
+    "year": "Historical Archive",
+    "category": "Origins",
+    "title": "Early Clinical Practice",
+    "location": "Historical archive",
+    "image": "/assets/images/history/early-clinical-archive.png",
+    "caption": "Historical clinical images illustrating early acupuncture practice and treatment observation."
+  },
+  {
+    "year": "2014",
+    "category": "Academic Exchange",
+    "title": "International Chinese Medicine Academic Exchange",
+    "location": "World Federation of Chinese Medicine Societies meeting",
+    "image": "/assets/images/history/wfcms-2014-meeting.jpg",
+    "caption": "Participation in international Chinese medicine academic exchange linking clinical experience with professional education."
+  },
+  {
+    "year": "2014",
+    "category": "Academic Exchange",
+    "title": "Clinical Case Presentation",
+    "location": "International academic meeting",
+    "image": "/assets/images/history/wfcms-2014-presentation.jpg",
+    "caption": "Clinical presentation introducing Zhu’s Scalp Acupuncture experience in an international professional setting."
+  },
+  {
+    "year": "Lineage",
+    "category": "Formal Transmission",
+    "title": "Medical Lineage Ceremony",
+    "location": "Taiwan",
+    "image": "/assets/images/history/initiation-ceremony.jpg",
+    "caption": "Formal lineage ceremony documenting medical transmission under Professor Ming Qing Zhu."
+  },
+  {
+    "year": "2019",
+    "category": "Education",
+    "title": "ZSA Transmission & Professional Training",
+    "location": "China",
+    "image": "/assets/images/history/zsa-2019-transmission-program.jpg",
+    "caption": "Large-scale professional education devoted to the transmission and clinical teaching of Zhu’s Scalp Acupuncture."
+  },
+  {
+    "year": "2024",
+    "category": "Continuity",
+    "title": "Continuing Clinical Principles",
+    "location": "ZSA professional education",
+    "image": "/assets/images/faculty/zhu-shy-chang-education-2024.jpg",
+    "caption": "Contemporary teaching continuing the core clinical principles of Zhu’s Scalp Acupuncture."
+  },
+  {
+    "year": "2026",
+    "category": "Global Academic Exchange",
+    "title": "International Conference Presentation",
+    "location": "AACMAC",
+    "image": "/assets/images/global/aacmac-2026-presentation.jpg",
+    "caption": "International presentation on applications of Zhu’s Scalp Acupuncture in post-radiation and post-cancer treatment sequelae."
+  }
+]

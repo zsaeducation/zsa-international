@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Bedside Clinical Learning",
+    "image": "/assets/images/clinical/bedside-clinical-training.jpg",
+    "caption": "Hospital-based clinical observation and supervised learning. Patient-related material should be published only where consent and institutional requirements are satisfied."
+  },
+  {
+    "title": "Clinical Case Discussion",
+    "image": "/assets/images/clinical/hospital-clinical-discussion.jpg",
+    "caption": "Team-based discussion connecting bedside observation with clinical reasoning."
+  },
+  {
+    "title": "Hospital Clinical Observation",
+    "image": "/assets/images/clinical/clinical-observation-hospital.jpg",
+    "caption": "Clinical observation in a hospital setting as part of practice-based education."
+  }
+]

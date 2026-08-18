@@ -1,0 +1,32 @@
+[
+  {
+    "title": "International Intensive Training",
+    "region": "Australia / International",
+    "image": "/assets/images/global/sustainhealth-international-training.jpg",
+    "caption": "Hands-on international training with practitioners from diverse professional backgrounds."
+  },
+  {
+    "title": "Global ZSA Community",
+    "region": "International",
+    "image": "/assets/images/global/international-zsa-class.jpg",
+    "caption": "International cohort-based learning focused on systematic ZSA education."
+  },
+  {
+    "title": "European Professional Exchange",
+    "region": "Europe",
+    "image": "/assets/images/global/etcm-europe-exchange.png",
+    "caption": "Professional exchange connected with European Traditional Chinese Medicine organizations."
+  },
+  {
+    "title": "Academic Exchange in Japan",
+    "region": "Japan",
+    "image": "/assets/images/global/japan-tcma-presentation.png",
+    "caption": "Academic presentation on Zhu’s Scalp Acupuncture in Japan."
+  },
+  {
+    "title": "AACMAC 2026",
+    "region": "International",
+    "image": "/assets/images/global/aacmac-2026-group.jpg",
+    "caption": "Participation in international professional exchange and conference activity."
+  }
+]
