@@ -1,0 +1,1 @@
+document.querySelectorAll('[data-lang]').forEach(el=>el.addEventListener('change',e=>{if(e.target.value!=='en') alert('This language is prepared for future expansion. English is the current complete edition.');}));
