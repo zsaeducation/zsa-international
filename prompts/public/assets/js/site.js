@@ -1,0 +1,1 @@
+document.querySelectorAll('[data-lang]').forEach(el=>el.addEventListener('change',e=>{if(e.target.value==='zh'){alert('中文版本正在建立中。Chinese edition is being prepared.');e.target.value='en';}}));

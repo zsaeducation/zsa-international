@@ -1,0 +1,1 @@
+import fs from "fs";fs.rmSync("dist",{recursive:true,force:true});fs.cpSync("public","dist",{recursive:true});console.log("Built ZSA International Education v9.2");
