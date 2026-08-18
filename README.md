@@ -1,26 +1,11 @@
-# ZSA International Education v5
+# ZSA International Education v7
 
-## Maintenance model
-Content lives in `/content`.
-Design and page generation live in `build.mjs`.
-Images live in `/public/assets/images`.
+## New in v7
+- Expanded professional profiles for Dr. Ru Shan Shy and Dr. Sheng Chun Chang
+- Added regional SEO pages for Australia, Asia, Europe and North America
+- Added Person structured data affiliation
+- Continued low-maintenance JSON + static build architecture
 
-## Build
-`npm run build`
-
-Output: `/dist`
-
-## Cloudflare Pages
+## Deployment
 Build command: `npm run build`
-Output directory: `dist`
-
-## Gemini
-Use `prompts/GEMINI_CONTENT_WORKFLOW.md`.
-Gemini should normally edit JSON content only.
-
-## Next content needed
-- Official YouTube channel URL
-- Official contact email
-- Verified dates/locations for historical images
-- Final faculty qualifications
-- Consent/publication status for patient-related images
+Deploy command: `npx wrangler deploy`

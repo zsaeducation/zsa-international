@@ -3,14 +3,66 @@
     "slug": "ru-shan-shy",
     "name": "Dr. Ru Shan Shy",
     "headline": "ZSA Educator · Clinical Practice · Neuroscience-Informed Teaching",
-    "bio": "Dr. Ru Shan Shy is a direct disciple of Professor Ming Qing Zhu and an international educator in Zhu’s Scalp Acupuncture. Her training includes medicine at China Medical University, graduate study at National Taiwan University, and advanced doctoral-level neuroscience training at the Institute of Neuroscience, National Yang Ming Chiao Tung University, Taiwan. Her work integrates classical Chinese medicine, clinical observation and neuroscience-informed reasoning.",
-    "photo": "/assets/images/faculty/zhu-shy-chang-formal.jpg"
+    "summary": "International educator in Zhu’s Scalp Acupuncture with long-term clinical learning under Professor Ming Qing Zhu and advanced neuroscience training in Taiwan.",
+    "bio": "Dr. Ru Shan Shy is a direct disciple of Professor Ming Qing Zhu and an international educator in Zhu’s Scalp Acupuncture. Her academic and clinical training includes medicine at China Medical University, graduate study at National Taiwan University, and advanced doctoral-level neuroscience training at the Institute of Neuroscience, National Yang Ming Chiao Tung University, Taiwan. Her teaching integrates classical Chinese medicine, clinical observation, functional reassessment and neuroscience-informed reasoning.",
+    "photo": "/assets/images/faculty/zhu-shy-chang-formal.jpg",
+    "focus": [
+      "Zhu’s Scalp Acupuncture",
+      "Clinical reasoning",
+      "Neurological rehabilitation",
+      "Dao Yin integration",
+      "Neuroscience-informed teaching"
+    ],
+    "timeline": [
+      {
+        "label": "Clinical lineage",
+        "text": "Long-term learning and clinical transmission under Professor Ming Qing Zhu."
+      },
+      {
+        "label": "Academic training",
+        "text": "Medical training in Taiwan, graduate study at National Taiwan University, and doctoral-level neuroscience training at National Yang Ming Chiao Tung University."
+      },
+      {
+        "label": "Professional education",
+        "text": "Teaching ZSA through case-based, clinically oriented training for practitioners."
+      },
+      {
+        "label": "International work",
+        "text": "Professional education and exchange across Asia, Australia, Europe and other international settings."
+      }
+    ]
   },
   {
     "slug": "sheng-chun-chang",
     "name": "Dr. Sheng Chun Chang",
     "headline": "ZSA Educator · Clinical Practice · Pharmacy, Neuroscience & Chinese Medicine",
-    "bio": "Dr. Sheng Chun Chang is a direct disciple of Professor Ming Qing Zhu and an international educator in Zhu’s Scalp Acupuncture. His multidisciplinary background spans Pharmacy, Neuroscience and Chinese Medicine. His teaching connects classical ZSA principles with biomedical, pharmacological and neurophysiological perspectives.",
-    "photo": "/assets/images/faculty/zhu-shy-chang-formal.jpg"
+    "summary": "International ZSA educator with multidisciplinary training across Pharmacy, Neuroscience and Chinese Medicine.",
+    "bio": "Dr. Sheng Chun Chang is a direct disciple of Professor Ming Qing Zhu and an international educator in Zhu’s Scalp Acupuncture. His multidisciplinary background spans Pharmacy, Neuroscience and Chinese Medicine. His teaching connects classical ZSA theory with biomedical, pharmacological and neurophysiological perspectives while maintaining a strong emphasis on clinical assessment, technique and functional response.",
+    "photo": "/assets/images/faculty/zhu-shy-chang-formal.jpg",
+    "focus": [
+      "Zhu’s Scalp Acupuncture",
+      "Clinical education",
+      "Pharmacy",
+      "Neuroscience",
+      "Chinese medicine"
+    ],
+    "timeline": [
+      {
+        "label": "Clinical lineage",
+        "text": "Direct clinical and educational transmission under Professor Ming Qing Zhu."
+      },
+      {
+        "label": "Multidisciplinary background",
+        "text": "Professional and academic training spanning Pharmacy, Neuroscience and Chinese Medicine."
+      },
+      {
+        "label": "Professional education",
+        "text": "Systematic teaching of ZSA clinical reasoning, technique and supervised case-based learning."
+      },
+      {
+        "label": "International work",
+        "text": "Professional education and exchange across Asia, Australia, Europe and other international regions."
+      }
+    ]
   }
 ]

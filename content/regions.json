@@ -1,0 +1,58 @@
+[
+  {
+    "slug": "australia",
+    "name": "Australia",
+    "headline": "Clinical intensive training and practitioner education in Australia.",
+    "summary": "Australia has been an important region for international ZSA education, with intensive seminars, clinical demonstrations and professional exchange.",
+    "highlights": [
+      "Hands-on practitioner training",
+      "Case-based clinical teaching",
+      "Clinical demonstrations",
+      "International professional exchange"
+    ],
+    "image": "/assets/images/global/sustainhealth-international-training.jpg",
+    "status": "Documented program history"
+  },
+  {
+    "slug": "asia",
+    "name": "Asia",
+    "headline": "The long-standing clinical and educational base of ZSA training.",
+    "summary": "Asia forms the historical and clinical base of the educational work, including Taiwan, China, Japan, Malaysia and other regional professional exchanges.",
+    "highlights": [
+      "Taiwan clinical education",
+      "Historical training in China",
+      "Academic exchange in Japan",
+      "Regional programs in Southeast Asia"
+    ],
+    "image": "/assets/images/global/japan-tcma-presentation.png",
+    "status": "Historical and continuing education"
+  },
+  {
+    "slug": "europe",
+    "name": "Europe",
+    "headline": "Professional exchange and international ZSA education in Europe.",
+    "summary": "European activity includes professional exchange with Traditional Chinese Medicine organizations and international practitioner education.",
+    "highlights": [
+      "Professional TCM exchange",
+      "International seminars",
+      "Practitioner education",
+      "Academic networking"
+    ],
+    "image": "/assets/images/global/etcm-europe-exchange.png",
+    "status": "International professional exchange"
+  },
+  {
+    "slug": "north-america",
+    "name": "North America",
+    "headline": "Expanding professional and academic exchange in North America.",
+    "summary": "North America is part of the ongoing international education strategy for ZSA, with emphasis on professional education, academic exchange and future structured training programs.",
+    "highlights": [
+      "Professional education",
+      "Academic exchange",
+      "Conference participation",
+      "Future structured programs"
+    ],
+    "image": "/assets/images/global/aacmac-2026-group.jpg",
+    "status": "Developing international education"
+  }
+]
