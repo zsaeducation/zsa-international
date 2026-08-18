@@ -1,11 +1,15 @@
-# ZSA International Education v7
+# ZSA International Education v8
 
-## New in v7
-- Expanded professional profiles for Dr. Ru Shan Shy and Dr. Sheng Chun Chang
-- Added regional SEO pages for Australia, Asia, Europe and North America
-- Added Person structured data affiliation
-- Continued low-maintenance JSON + static build architecture
+Major changes:
+- Light medical-education visual system: warm white, cream, soft sage, deep clinical green
+- Homepage uses the professional three-person lineage photograph
+- Individual faculty pages reserve separate official portrait areas
+- Professor Ming Qing Zhu authority/lineage page
+- ZSA FAQ with FAQ structured data
+- Knowledge Hub with Article structured data
+- Breadcrumb navigation, canonical URLs, sitemap and robots.txt
+- 22 searchable static pages
 
-## Deployment
-Build command: `npm run build`
-Deploy command: `npx wrangler deploy`
+Deployment remains:
+Build: npm run build
+Deploy: npx wrangler deploy

@@ -1,0 +1,50 @@
+{
+  "faq": [
+    {
+      "q": "What is Zhu’s Scalp Acupuncture (ZSA)?",
+      "a": "Zhu’s Scalp Acupuncture is a structured clinical acupuncture system developed by Professor Ming Qing Zhu. This educational website presents ZSA through clinical assessment, scalp treatment zones, technique, immediate functional reassessment and Dao Yin."
+    },
+    {
+      "q": "Who developed Zhu’s Scalp Acupuncture?",
+      "a": "Zhu’s Scalp Acupuncture was developed by Professor Ming Qing Zhu. The Heritage & Lineage section documents the clinical and educational transmission represented on this website."
+    },
+    {
+      "q": "Who teaches on this website?",
+      "a": "The principal faculty presented here are Dr. Ru Shan Shy and Dr. Sheng Chun Chang, direct disciples of Professor Ming Qing Zhu and international educators in Zhu’s Scalp Acupuncture."
+    },
+    {
+      "q": "Is ZSA taught as a set of scalp points?",
+      "a": "No. The educational approach presented here emphasizes a clinical system: assessment, treatment strategy, technique, reassessment and active patient participation rather than isolated point memorization."
+    },
+    {
+      "q": "What is Dao Yin in ZSA education?",
+      "a": "Dao Yin refers here to guided patient participation integrated with treatment, such as movement or task-oriented activity selected according to the clinical context."
+    },
+    {
+      "q": "Where is ZSA education offered?",
+      "a": "The international education archive includes activity across Asia, Australia, Europe and North America. Individual regional pages are expanded only from verified course and historical records."
+    }
+  ],
+  "topics": [
+    {
+      "slug": "clinical-assessment",
+      "title": "Clinical Assessment in ZSA",
+      "summary": "How functional presentation and reassessment organize clinical decision-making."
+    },
+    {
+      "slug": "treatment-strategy",
+      "title": "ZSA Treatment Strategy",
+      "summary": "Understanding treatment zones and technique within a coherent clinical framework."
+    },
+    {
+      "slug": "dao-yin",
+      "title": "Dao Yin & Active Participation",
+      "summary": "The role of guided movement and task-oriented participation during clinical treatment."
+    },
+    {
+      "slug": "clinical-reassessment",
+      "title": "Immediate Clinical Reassessment",
+      "summary": "Using observable functional response to refine treatment strategy."
+    }
+  ]
+}
